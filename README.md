@@ -2,6 +2,8 @@
 
 **Từ một từ khóa đến bài blog SEO tiếng Việt, bộ ảnh minh họa bằng ChatGPT và bản nháp WordPress.**
 
+[**Xem website giới thiệu**](https://sonlovinbot.github.io/seo-blog-writer-skill/)
+
 SEO Blog Writer là skill hướng dẫn ChatGPT thực hiện quy trình viết bài: nghiên cứu nguồn, đề xuất tiêu đề, xây dựng dàn ý, viết nội dung, tạo ảnh và kiểm tra trước khi bàn giao. Phù hợp cho người làm content, marketing, chủ website và đội ngũ sản xuất blog tiếng Việt.
 
 Ảnh được tạo bằng **tính năng tạo ảnh tích hợp của ChatGPT**, theo số lượng bài viết cần. Bước WordPress thực hiện khi có website được chỉ định và quyền truy cập phù hợp.
@@ -145,6 +147,8 @@ Việc cài skill cung cấp quy trình hướng dẫn; khả năng thực thi p
 | [SKILL.md](SKILL.md) | Hướng dẫn thực thi toàn bộ quy trình |
 | [agents/openai.yaml](agents/openai.yaml) | Tên hiển thị, mô tả ngắn và prompt khởi đầu |
 | [assets/icon.svg](assets/icon.svg) | Tài nguyên biểu tượng |
+| [index.html](index.html), [styles.css](styles.css) | Trang giới thiệu chạy trên GitHub Pages |
+| [assets/share-preview.png](assets/share-preview.png) | Ảnh đại diện khi chia sẻ website |
 | [README.md](README.md) | Giới thiệu, sơ đồ quy trình và ví dụ sử dụng |
 
 ## Nguyên tắc chất lượng
